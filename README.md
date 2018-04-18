@@ -1,4 +1,4 @@
-##Пример реализации Whitelist в блокчейне Ethereum. 
+## Пример реализации Whitelist в блокчейне Ethereum. 
 
 **Whitelist** - ограничение желающих инвестировать в TokenSale. 
 
